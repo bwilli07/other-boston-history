@@ -34,5 +34,22 @@
         "address": "1 Post Office Square"
        }
     }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           42.321576,
+          -71.056138
+        ]
+      },
+      "properties": {
+       "name": "Rose Nichols and Nichols House Museum",
+       "description":"Rose Standish Nichols (1872-1964) was among the first well-known women landscape architects.",
+        "marker-symbol": "star",
+        "address": "55 Mount Vernon St",
+	"url": "http://bwht.org/beacon-hill/"
+       }
+    }
   ]
 }
